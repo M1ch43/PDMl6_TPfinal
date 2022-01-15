@@ -1,0 +1,66 @@
+D:\micha\IFSP\6-Sem\PDM\PDM_TPFINAL_v2\TP_Finalv2\TP_Finalv2\TP_Finalv2\bin\Debug\netstandard2.0\TP_Finalv2.deps.json
+D:\micha\IFSP\6-Sem\PDM\PDM_TPFINAL_v2\TP_Finalv2\TP_Finalv2\TP_Finalv2\bin\Debug\netstandard2.0\TP_Finalv2.dll
+D:\micha\IFSP\6-Sem\PDM\PDM_TPFINAL_v2\TP_Finalv2\TP_Finalv2\TP_Finalv2\bin\Debug\netstandard2.0\ref\TP_Finalv2.dll
+D:\micha\IFSP\6-Sem\PDM\PDM_TPFINAL_v2\TP_Finalv2\TP_Finalv2\TP_Finalv2\bin\Debug\netstandard2.0\TP_Finalv2.pdb
+D:\micha\IFSP\6-Sem\PDM\PDM_TPFINAL_v2\TP_Finalv2\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\TP_Finalv2.csprojAssemblyReference.cache
+D:\micha\IFSP\6-Sem\PDM\PDM_TPFINAL_v2\TP_Finalv2\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\micha\IFSP\6-Sem\PDM\PDM_TPFINAL_v2\TP_Finalv2\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\micha\IFSP\6-Sem\PDM\PDM_TPFINAL_v2\TP_Finalv2\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\Views\CRUDMercadoria.xaml.g.cs
+D:\micha\IFSP\6-Sem\PDM\PDM_TPFINAL_v2\TP_Finalv2\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\Views\GeoLocalizaPage.xaml.g.cs
+D:\micha\IFSP\6-Sem\PDM\PDM_TPFINAL_v2\TP_Finalv2\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\TP_Finalv2.AssemblyInfoInputs.cache
+D:\micha\IFSP\6-Sem\PDM\PDM_TPFINAL_v2\TP_Finalv2\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\TP_Finalv2.AssemblyInfo.cs
+D:\micha\IFSP\6-Sem\PDM\PDM_TPFINAL_v2\TP_Finalv2\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\TP_Finalv2.csproj.CoreCompileInputs.cache
+D:\micha\IFSP\6-Sem\PDM\PDM_TPFINAL_v2\TP_Finalv2\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\XamlC.stamp
+D:\micha\IFSP\6-Sem\PDM\PDM_TPFINAL_v2\TP_Finalv2\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\TP_Finalv2.dll
+D:\micha\IFSP\6-Sem\PDM\PDM_TPFINAL_v2\TP_Finalv2\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\ref\TP_Finalv2.dll
+D:\micha\IFSP\6-Sem\PDM\PDM_TPFINAL_v2\TP_Finalv2\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\TP_Finalv2.pdb
+C:\Users\micha\source\repos\PDM_TPFINAL\TP_Finalv2\TP_Finalv2\TP_Finalv2\bin\Debug\netstandard2.0\TP_Finalv2.deps.json
+C:\Users\micha\source\repos\PDM_TPFINAL\TP_Finalv2\TP_Finalv2\TP_Finalv2\bin\Debug\netstandard2.0\TP_Finalv2.dll
+C:\Users\micha\source\repos\PDM_TPFINAL\TP_Finalv2\TP_Finalv2\TP_Finalv2\bin\Debug\netstandard2.0\ref\TP_Finalv2.dll
+C:\Users\micha\source\repos\PDM_TPFINAL\TP_Finalv2\TP_Finalv2\TP_Finalv2\bin\Debug\netstandard2.0\TP_Finalv2.pdb
+C:\Users\micha\source\repos\PDM_TPFINAL\TP_Finalv2\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\TP_Finalv2.csprojAssemblyReference.cache
+C:\Users\micha\source\repos\PDM_TPFINAL\TP_Finalv2\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\micha\source\repos\PDM_TPFINAL\TP_Finalv2\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\micha\source\repos\PDM_TPFINAL\TP_Finalv2\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\Views\CRUDMercadoria.xaml.g.cs
+C:\Users\micha\source\repos\PDM_TPFINAL\TP_Finalv2\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\Views\GeoLocalizaPage.xaml.g.cs
+C:\Users\micha\source\repos\PDM_TPFINAL\TP_Finalv2\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\TP_Finalv2.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\PDM_TPFINAL\TP_Finalv2\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\TP_Finalv2.AssemblyInfo.cs
+C:\Users\micha\source\repos\PDM_TPFINAL\TP_Finalv2\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\TP_Finalv2.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\PDM_TPFINAL\TP_Finalv2\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\micha\source\repos\PDM_TPFINAL\TP_Finalv2\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\TP_Finalv2.dll
+C:\Users\micha\source\repos\PDM_TPFINAL\TP_Finalv2\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\ref\TP_Finalv2.dll
+C:\Users\micha\source\repos\PDM_TPFINAL\TP_Finalv2\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\TP_Finalv2.pdb
+C:\Users\micha\OneDrive\Área de Trabalho\PDM_TPFINAL-master\TP_Finalv2\TP_Finalv2\TP_Finalv2\bin\Debug\netstandard2.0\TP_Finalv2.deps.json
+C:\Users\micha\OneDrive\Área de Trabalho\PDM_TPFINAL-master\TP_Finalv2\TP_Finalv2\TP_Finalv2\bin\Debug\netstandard2.0\TP_Finalv2.dll
+C:\Users\micha\OneDrive\Área de Trabalho\PDM_TPFINAL-master\TP_Finalv2\TP_Finalv2\TP_Finalv2\bin\Debug\netstandard2.0\ref\TP_Finalv2.dll
+C:\Users\micha\OneDrive\Área de Trabalho\PDM_TPFINAL-master\TP_Finalv2\TP_Finalv2\TP_Finalv2\bin\Debug\netstandard2.0\TP_Finalv2.pdb
+C:\Users\micha\OneDrive\Área de Trabalho\PDM_TPFINAL-master\TP_Finalv2\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\TP_Finalv2.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Área de Trabalho\PDM_TPFINAL-master\TP_Finalv2\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\TP_Finalv2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Área de Trabalho\PDM_TPFINAL-master\TP_Finalv2\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\micha\OneDrive\Área de Trabalho\PDM_TPFINAL-master\TP_Finalv2\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\micha\OneDrive\Área de Trabalho\PDM_TPFINAL-master\TP_Finalv2\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\Views\CRUDMercadoria.xaml.g.cs
+C:\Users\micha\OneDrive\Área de Trabalho\PDM_TPFINAL-master\TP_Finalv2\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\Views\GeoLocalizaPage.xaml.g.cs
+C:\Users\micha\OneDrive\Área de Trabalho\PDM_TPFINAL-master\TP_Finalv2\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\TP_Finalv2.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Área de Trabalho\PDM_TPFINAL-master\TP_Finalv2\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\TP_Finalv2.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Área de Trabalho\PDM_TPFINAL-master\TP_Finalv2\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\TP_Finalv2.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Área de Trabalho\PDM_TPFINAL-master\TP_Finalv2\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\micha\OneDrive\Área de Trabalho\PDM_TPFINAL-master\TP_Finalv2\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\TP_Finalv2.dll
+C:\Users\micha\OneDrive\Área de Trabalho\PDM_TPFINAL-master\TP_Finalv2\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\ref\TP_Finalv2.dll
+C:\Users\micha\OneDrive\Área de Trabalho\PDM_TPFINAL-master\TP_Finalv2\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\TP_Finalv2.pdb
+C:\Users\micha\OneDrive\Área de Trabalho\PDMI6\TP_Final\TP_Finalv2\TP_Finalv2\bin\Debug\netstandard2.0\TP_Finalv2.deps.json
+C:\Users\micha\OneDrive\Área de Trabalho\PDMI6\TP_Final\TP_Finalv2\TP_Finalv2\bin\Debug\netstandard2.0\TP_Finalv2.dll
+C:\Users\micha\OneDrive\Área de Trabalho\PDMI6\TP_Final\TP_Finalv2\TP_Finalv2\bin\Debug\netstandard2.0\ref\TP_Finalv2.dll
+C:\Users\micha\OneDrive\Área de Trabalho\PDMI6\TP_Final\TP_Finalv2\TP_Finalv2\bin\Debug\netstandard2.0\TP_Finalv2.pdb
+C:\Users\micha\OneDrive\Área de Trabalho\PDMI6\TP_Final\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\TP_Finalv2.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Área de Trabalho\PDMI6\TP_Final\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\TP_Finalv2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Área de Trabalho\PDMI6\TP_Final\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\micha\OneDrive\Área de Trabalho\PDMI6\TP_Final\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\micha\OneDrive\Área de Trabalho\PDMI6\TP_Final\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\Views\CRUDMercadoria.xaml.g.cs
+C:\Users\micha\OneDrive\Área de Trabalho\PDMI6\TP_Final\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\Views\GeoLocalizaPage.xaml.g.cs
+C:\Users\micha\OneDrive\Área de Trabalho\PDMI6\TP_Final\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\TP_Finalv2.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Área de Trabalho\PDMI6\TP_Final\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\TP_Finalv2.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Área de Trabalho\PDMI6\TP_Final\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\TP_Finalv2.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Área de Trabalho\PDMI6\TP_Final\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\micha\OneDrive\Área de Trabalho\PDMI6\TP_Final\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\TP_Finalv2.dll
+C:\Users\micha\OneDrive\Área de Trabalho\PDMI6\TP_Final\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\ref\TP_Finalv2.dll
+C:\Users\micha\OneDrive\Área de Trabalho\PDMI6\TP_Final\TP_Finalv2\TP_Finalv2\obj\Debug\netstandard2.0\TP_Finalv2.pdb
